@@ -1,2 +1,2 @@
 # cricket
-Little helper things related to one of my passions - cricket
+Little helpers related to one of my passions - cricket
